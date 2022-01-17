@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 612753981b745ed45ae9f4a3d4d949ec
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Attendance_Book_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 4ff8b462f1fbc514997086b7dfdf81b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bag_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 84838baf4126b8e4e98bfe8c29620964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bag_02_Albedo_Snaps014
+    second: {fileID: 2100000, guid: f9efa5de85a8a3745ac176568e3738fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackboard_Board_Albedo_Snaps014
+    second: {fileID: 2100000, guid: daaff91e0178edb4c8ffdf5c4ae0350f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 58f11a3c1933bd34bb7be5b9e6ad7854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Broom_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 9a2fa47c2b42b864599b37690add9870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brush_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 9ffab94952e5d354496f568d17acb4d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bucket_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 9e47b05b514eec54d8bd57af0ecadfd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Burglar_Alarm_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 3eaa27bc55d64be49b269e85f9ef6503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cement_Floor_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 7d34e79957e895947b51efecbd7a404e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Certificate_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 6427f09164c6f7d4489a5e7984d4ff96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chalk_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 5c3607a6e203f15418845f3d38392ffe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Classroom_Ceiling_Albedo_Snaps014
+    second: {fileID: 2100000, guid: b88f48792844dc748b84fceda56c235e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 8a57da4a932b0414ba94e36b5c6a5a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corridor_Ceiling_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 7e85a931e5d6d1b4ebe5a4147028a538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: e9cba08e32cd3724f87839b14bea9a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decal_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 18d33b961292d6744b9ccfb4a3c94a2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doorplate_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 397543647f991744583783ec96cb83ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earth_Floor_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 09927ea6c72f55945a79ce15f3507c44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exit_Sign_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 8ceffd043e4088046b7cb4f50fa0626c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 04178cc1e2fb527499b5bb01a2a9512b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: File_Pocket_01_Albedo
+    second: {fileID: 2100000, guid: 6a2d3e179e6f4b644bea1f4e07c0da37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire_Extinguisher_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 0237615dfcf3cba47b15a259d175867a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireplug_Box_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: fce5f7b759f7f80419aad538e6905952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flipped_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: a30fd2b6c010ae342bdf314b28321d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 537590cacac92064d9e22e522a5770fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_Tile_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 846b55ed1ffbb2d4c8232b03ff2381c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Snaps014
+    second: {fileID: 2100000, guid: 0678d527cb5d0d24aadc56e8b8f80730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holder_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: c9711d20c4c72644a8dfa571495465d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 06f520a0e91c8dd41b72da3088d9a35f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Locker_Close_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: c8578e7c1f98cee42bed8ddb9901fa5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #25
+    second: {fileID: 2100000, guid: 6967a8303b0a7a0479b2e8e5b9285cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #26
+    second: {fileID: 2100000, guid: 534d82df2a531084f9f18fcd3739f74d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #295
+    second: {fileID: 2100000, guid: 8b073c23a982fdd48a219937ba3210de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metallic_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 0dfb167b8b3d2af449ad02b798313631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metallic_Albedo_Snaps014
+    second: {fileID: 2100000, guid: ec69ef31c2d20854793feda1851c59e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror_01_Snaps014
+    second: {fileID: 2100000, guid: cf8df860c4efdff4b8e1f7894705ac85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outdoor_Trim_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 300ed031d4eefef40ae80af489cfaeac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outdoor_Wall_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 7cb0696bd5cef5941afaba7f49a9c881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe_04_Albedo_Snaps014
+    second: {fileID: 2100000, guid: b7f05f22cf38c4246b35225d5e5f9931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: f67dfdf1789b88b4999f663a06cc300f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plunger_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: b37b97037d4fc834ebc3a104431e6047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pointer_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: f1067faf139aa434e915028cc70494e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poster_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: edf5bcd4cb019fb4cb6b3bcb91a503bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poster_02_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 19b06f21bb1c9f147bee3b0a9545d549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restromm_Floor_Albedo_Snaps014
+    second: {fileID: 2100000, guid: af94dae17a333324fbcf5635d8a42d88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restromm_Wall_Brick_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 9f27d7ddbf003b44c8b3a0c0f1add451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restroom_Sink_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 9fde018462f330347bcf5a48c19d2d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restroom_Sink_02_Albedo_Snaps014
+    second: {fileID: 2100000, guid: f52aa17547c70484a860a0baa7a8da2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restroom_Wall_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 6bdebbeb83c098c4e9e447ecb26b9c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roadblock_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: ade9efcfb8b27b346a82fb09cf83c70c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_Floor_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 900074b0532c2a64887b060479cfd8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruler_Albedo_Snaps014
+    second: {fileID: 2100000, guid: dc43cf86d265ea04e8fa8a676d5a18c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: d936edd9a3a92d84f996663d1da7c8e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoes_01_Snaps014_Albedo
+    second: {fileID: 2100000, guid: 2112bd153cb8a064ebafd5627d4b996a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shrubs_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 6d126761ce52fe241934cf9678ec81f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Single_Carport_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: ff9f494bce48cc8499c0e5118fedb06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_Item_Albedo_Snaps014
+    second: {fileID: 2100000, guid: af52edd16949d724d814c2ec7c559747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stacks_Of_Paper_Albedo_Snaps014
+    second: {fileID: 2100000, guid: c115fccc0c52e6e44bd68c3009253000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stationery_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: da3f0614897cb114cac57c00fa592ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switch_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: bfecdba0d645e62479c0a416798f7c89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 888dcd56a0f984e4e8fed2300a26bddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet_02_Albedo_Snaps014
+    second: {fileID: 2100000, guid: de027b0fe87c7684d8796c9f75db3756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trashbox_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 2c37ffb841d6bb84190618ec8c1a641d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_01_Albedo_Snaps014_
+    second: {fileID: 2100000, guid: 0fda6c4ad1a203e4a83f02eb745b6e2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Leaf_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: b7873d8cc7c34654ebe5954168b86447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trim_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 5ecdb8f29baec8a41a7d24d76f213cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trim_02_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 09d4adaa45bc97e408749e4ae253428f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Umbrella_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 5c9d361b6eeaee34aa05769346ece5f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Urushi_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: dcb270dbec5fd9c4ab68a0820b8d8518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 7c111f3efea05774e8bcf648aa5fa3c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_02_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 20dfb9af5ad779949b968d44640fe042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_03_Albedo_Snaps014
+    second: {fileID: 2100000, guid: d796e438fb8c81b4b9d3e4fb30ac4a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_01_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 43605c82aa1d4bd4d8d372e360afdde5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_02_Albedo_Snaps014
+    second: {fileID: 2100000, guid: 0dce456b45abba24db73f64074fb597c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_05_Albedo_Snaps014
+    second: {fileID: 2100000, guid: d8b36161ea3b748438a7452804f209b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement
+    second: {fileID: 2100000, guid: 7d34e79957e895947b51efecbd7a404e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: field
+    second: {fileID: 2100000, guid: 308bdc0c3b219714388ac363c1e3d255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_texture
+    second: {fileID: 2100000, guid: cbcdb2063214ccf478c3ff28c6e38d00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__FenceMetal
+    second: {fileID: 2100000, guid: 038fb599554c89c4ab7002dc31f10c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Material #26
+    second: {fileID: 2100000, guid: 803fc0b319e8962419b767d10df30e38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 7e5b30ddadb5302499ee4a45bde0799a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
